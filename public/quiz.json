@@ -1,0 +1,106 @@
+{
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the first pillar of Islam?",
+          "options": [
+            "Salat (Prayer)",
+            "Zakat (Charity)",
+            "Shahada (Declaration of Faith)",
+            "Sawm (Fasting)"
+          ],
+          "answer": "Shahada (Declaration of Faith)"
+        },
+        {
+          "question": "Who is considered the Seal of the Prophets in Islam?",
+          "options": [
+            "Prophet Musa (Moses)",
+            "Prophet Isa (Jesus)",
+            "Prophet Ibrahim (Abraham)",
+            "Prophet Muhammad peace be upon him"
+          ],
+          "answer": "Prophet Muhammad peace be upon him"
+        },
+        {
+          "question": "Which angel delivered revelations to Prophet Muhammad peace be upon him (peace be upon him)?",
+          "options": [
+            "Angel Jibril (Gabriel)",
+            "Angel Mikail (Michael)",
+            "Angel Israfil",
+            "Angel Azrael"
+          ],
+          "answer": "Angel Jibril (Gabriel)"
+        },
+        {
+          "question": "Which chapter of the Quran is known as the Heart of the Quran?",
+          "options": [
+            "Surah Al-Fatiha",
+            "Surah Al-Baqarah",
+            "Surah Yasin",
+            "Surah Al-Mulk"
+          ],
+          "answer": "Surah Yasin"
+        },
+        {
+          "question": "What is the night journey of Prophet Muhammad peace be upon him called?",
+          "options": [
+            "Isra and Mi'raj",
+            "Hijrah",
+            "Battle of Badr",
+            "Battle of Uhud"
+          ],
+          "answer": "Isra and Mi'raj"
+        },
+        {
+          "question": "Which companion of Prophet Muhammad peace be upon him compiled the Quran into a single manuscript during his time?",
+          "options": [
+            "Abu Bakr (RA)",
+            "Umar ibn al-Khattab (RA)",
+            "Ali ibn Abi Talib (RA)",
+            "Uthman ibn Affan (RA)"
+          ],
+          "answer": "Uthman ibn Affan (RA)"
+        },
+        {
+          "question": "What is the term used for the sayings and actions of Prophet Muhammad peace be upon him (peace be upon him) that provide guidance for Muslims?",
+          "options": [
+            "Hadith",
+            "Sunnah",
+            "Fiqh",
+            "Ijma"
+          ],
+          "answer": "Hadith"
+        },
+        {
+          "question": "Which prophet is known for building the Kaaba in Makkah?",
+          "options": [
+            "Prophet Musa (Moses)",
+            "Prophet Ibrahim (Abraham)",
+            "Prophet Isa (Jesus)",
+            "Prophet Yunus (Jonah)"
+          ],
+          "answer": "Prophet Ibrahim (Abraham)"
+        },
+        {
+          "question": "What is the term for the obligatory charity that Muslims are required to give to the needy?",
+          "options": [
+            "Zakat",
+            "Sadaqah",
+            "Fitrah",
+            "Khums"
+          ],
+          "answer": "Zakat"
+        },
+        {
+          "question": "During which month do Muslims fast from dawn to sunset as an act of worship?",
+          "options": [
+            "Ramadan",
+            "Shawwal",
+            "Dhu al-Hijjah",
+            "Muharram"
+          ],
+          "answer": "Ramadan"
+        }
+      ]
+    }
+  }
